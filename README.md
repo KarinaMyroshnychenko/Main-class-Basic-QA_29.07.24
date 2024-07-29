@@ -1,2 +1,1 @@
-# Main-class-Basic-QA_29.07.24
-Необходимо составить чек-лист на (!)требование(!) на раздел “Шаг 3” 5-6 проверок
+[HOMEWORK_3 QA 29,07,24.docx](https://github.com/user-attachments/files/16419084/HOMEWORK_3.QA.29.07.24.docx)
